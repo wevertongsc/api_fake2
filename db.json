@@ -1,20 +1,20 @@
-{
-  "medicamento": [
-    {
-      "id": 1,
-      "nome": "XALKIRI",
-      "horario": "12h",
-      "url": "https://stgprevapi.al-dawaa.com/medias/Xalkori-Crizotinib-250Mg-60-Capsules_0_1200.webp?context=bWFzdGVyfGltYWdlc3w1OTEyMnxpbWFnZS93ZWJwfGFHUTJMMmc1TkM4NU16UTBNamcyTlRVMk1Ua3dMekV3TXpVMU5WOHdYMlZ1WHpFeU1EQlhlREV5TURCSVgxZEZRbEF1ZDJWaWNBfGEwOTRlMTE5N2I2YjkxOWVmZTZmNWQ1OWU2NDZjYjhjZjAzZjY3ZmE4YThiZGY2YjY5OTk5NDlhMzUxNjE5MTQ"
-    },
-    {
-      "id": 2,
-      "nome": "fumasil",
-      "senha": "12h",
-      "fotoUrl": "https://drogal.vtexassets.com/arquivos/ids/263867/176229.jpg?v=638896530356870000"
-    },
-  ],
-  "config": {
-    "versao": "1.0",
-    "apiInfo": "API fake para tela de medicamento"
+  {
+    "medicamento": [
+      {
+        "id": 1,
+        "nome": "XALKIRI",
+        "horario": "12h",
+        "url": "https://stgprevapi.al-dawaa.com/medias/Xalkori-Crizotinib-250Mg-60-Capsules_0_1200.webp?context=bWFzdGVyfGltYWdlc3w1OTEyMnxpbWFnZS93ZWJwfGFHUTJMMmc1TkM4NU16UTBNamcyTlRVMk1Ua3dMekV3TXpVMU5WOHdYMlZ1WHpFeU1EQlhlREV5TURCSVgxZEZRbEF1ZDJWaWNBfGEwOTRlMTE5N2I2YjkxOWVmZTZmNWQ1OWU2NDZjYjhjZjAzZjY3ZmE4YThiZGY2YjY5OTk5NDlhMzUxNjE5MTQ"
+      },
+      {
+        "id": 2,
+        "nome": "fumasil",
+        "senha": "12h",
+        "fotoUrl": "https://drogal.vtexassets.com/arquivos/ids/263867/176229.jpg?v=638896530356870000"
+      }
+    ],
+    "config": {
+      "versao": "1.0",
+      "apiInfo": "API fake para tela de medicamento"
+    }
   }
-}
